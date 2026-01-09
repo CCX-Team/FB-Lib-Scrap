@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Playwright
+.ms-playwright/
+
+# Results (optional - uncomment to ignore scraping results)
+# *.json
+# !config.example.json
+# !examples/*.json
+
+# Debug files
+facebook_page_debug.html
+facebook_page_debug.png
+*.png
+*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

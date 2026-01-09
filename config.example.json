@@ -1,0 +1,23 @@
+{
+  "method": "scraper",
+  "scraper_config": {
+    "headless": true,
+    "max_scroll": 50,
+    "scroll_pause": 2.5
+  },
+  "api_config": {
+    "access_token": "VOTRE_TOKEN_FACEBOOK_ICI",
+    "api_version": "v18.0"
+  },
+  "search_params": {
+    "page_id": "2179133842361365",
+    "search_term": "l'indispensable probiotiques",
+    "start_date": "2025-01-01",
+    "end_date": "2026-01-01",
+    "country": "FR"
+  },
+  "output": {
+    "filename": "facebook_ads_results.json",
+    "pretty_print": true
+  }
+}
