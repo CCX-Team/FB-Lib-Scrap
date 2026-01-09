@@ -1,4 +1,11 @@
 {
+  "_readme": "Facebook Ads Library - DIJO Probiotiques (2025)",
+  "_scraping_info": {
+    "ads_scraped": 157,
+    "ads_expected": 250,
+    "success_rate": "62.8%",
+    "note": "157 publicités récupérées sur 250 annoncées par Facebook. Le scraper s'est arrêté après détection de contenu stabilisé (pas de nouvelles pubs après 3 scrolls)."
+  },
   "success": true,
   "total_ads": 157,
   "expected_total": 250,
