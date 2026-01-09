@@ -1,35 +1,298 @@
 {
   "total_ads": 157,
   "promotional_angles": {
-    "-50% sur une sélection de best-sellers DIJO": 1,
-    "-30% sur tout le site ! Prenez, enfin, soin de votre ventre 🌱 DIJO": 4,
-    "-30% sur tout le site ! Prenez, enfin, soin de votre ventre 🌱 0:00 / 1:22 DIJO": 1,
-    "-30% sur tout le site ! Prenez, enfin, soin de votre ventre 🌱 0:00 / 1:50 DIJO": 2,
-    "-30% sur tout le site ! Prenez, enfin, soin de votre ventre 🌱 0:00 / 1:52 DIJO": 1,
-    "-15% sur l'indispensable probiotiques ⭐️ DIJO Shop Now ​": 2,
-    "-30% sur les packs avec le code SUMMER25 👉 + le produit Digestion Facile OFFERT avec le code VIP25 💚 C’est le moment de prendre soin de ton ventre ! 💌 Offre exclusive dès le 23 juin ! Sign Up Voir plus État du système API Ad LibraryÀ propos des publicités et de l’utilisation des donnéesConfidentialitéConditionsCookies Meta © 2026 | Français (France)": 1,
-    "-15% sur l'indispensable probiotiques ⭐️ DIJO Shop Now État du système API Ad LibraryÀ propos des publicités et de l’utilisation des donnéesConfidentialitéConditionsCookies": 1,
-    "10% de réduction sur le Pack ventre au top ! -10% de réduction sur le pack 30-Day Restart DIJO Shop Now Voir plus État du système API Ad LibraryÀ propos": 1,
-    "-20% de réduction en vous inscrivant à notre Newsletter": 2,
-    "-20% sur tout le site DIJO pendant 48H avec le code DIJO2025 ! L'occasion de prendre soin de son ventre 🌱 -20% pendant 48H Dijo Learn More ​ Inactive Nombre faible d’impressions ​ ID dans la bibliothèque : 1358783001983385": 1,
-    "-20% sur tout le site DIJO pendant 48H avec le code DIJO2025 ! L'occasion de prendre soin de son ventre 🌱 -20% pendant 48H Dijo Learn More ​": 1,
-    "10% de réduction sur le Pack ventre au top ! -10% de réduction sur le pack 30-Day Restart DIJO Shop Now ​": 2,
-    "-15% sur l'indispensable probiotiques ⭐️ DIJO Learn More ​": 2,
-    "10% de réduction sur le Pack ventre au top ! -10% de réduction sur le pack 30-Day Restart DIJO Shop Now ​ Inactive Nombre faible d’impressions": 1,
-    "10% de réduction sur le Pack ventre au top ! -10% de réduction sur le pack 30-Day Restart DIJO Shop Now Lancée en août 2024 ​": 1
+    "counts": {
+      "-50%": 1,
+      "-30%": 9,
+      "-15%": 5,
+      "-10%": 5,
+      "-20%": 4
+    },
+    "examples": {
+      "-50%": {
+        "id": "2056193811880131",
+        "date_start": "22 déc 2025",
+        "date_end": "22 déc 2025",
+        "platforms": [],
+        "text_preview": "DIJO se réinvente \n\nJusqu'à -50% sur une sélection de best-sellers\nDIJO.FR\nDIJO RESET\nPrenez soin de votre ventre\nLearn More\n​\nActif\nID dans la bibliothèque : 1389520159195387\nDébut de diffusion le 22",
+        "text_lines": [
+          "DIJO se réinvente",
+          "Jusqu'à -50% sur une sélection de best-sellers",
+          "DIJO.FR",
+          "DIJO RESET",
+          "Prenez soin de votre ventre",
+          "Learn More",
+          "​",
+          "Actif",
+          "ID dans la bibliothèque : 1389520159195387",
+          "Début de diffusion le 22 déc 2025Plateformes"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 2056193811880131\n22 déc 2025 - 22 déc 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nDIJO se réinvente \n\nJusqu'à -50% sur une sélection de best-sellers\nDIJO.FR\nDIJO RESET\nPrenez soin de votre ventre\nLearn More\n​\nActif\nID dans la bibliothèque : 1389520159195387\nDébut de diffusion le 22 déc 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\n5 publicités utilisent ce contenu publicitaire et ce texte\nOuvrir la liste déroulante\n​\nVoir les détails du récapitulatif\nDIJO\nSponsorisé\nDIJO se réinvente \n\nJusqu'à -50% sur une sélection de best-sellers\nDIJO.FR\nDIJO RESET\nPrenez soin de votre ventre\nLearn More\n​\nActif\nID dans la bibliothèque : 4401691756734691\nDébut de diffusion le 22 déc 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\n5 publicités utilisent ce contenu publicitaire et ce texte\nOuvrir la liste déroulante\n​\n"
+      },
+      "-30%": {
+        "id": "1562732124755598",
+        "date_start": "27 nov 2025",
+        "date_end": "30 nov 2025",
+        "platforms": [],
+        "text_preview": "La promo de l'année est lancée sur DIJO. Profitez jusqu'à -30% sur tout le site !\n\nPrenez, enfin, soin de votre ventre 🌱\nDIJO.FR\nOffre Black Friday 🔥\nPrenez soin de votre ventre\nLearn More\n​",
+        "text_lines": [
+          "La promo de l'année est lancée sur DIJO. Profitez jusqu'à -30% sur tout le site !",
+          "Prenez, enfin, soin de votre ventre 🌱",
+          "DIJO.FR",
+          "Offre Black Friday 🔥",
+          "Prenez soin de votre ventre",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1562732124755598\n27 nov 2025 - 30 nov 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nLa promo de l'année est lancée sur DIJO. Profitez jusqu'à -30% sur tout le site !\n\nPrenez, enfin, soin de votre ventre 🌱\nDIJO.FR\nOffre Black Friday 🔥\nPrenez soin de votre ventre\nLearn More\n​\n"
+      },
+      "-15%": {
+        "id": "1162212119342475",
+        "date_start": "6 oct 2025",
+        "date_end": "26 nov 2025",
+        "platforms": [],
+        "text_preview": "Consommer des probiotiques a de nombreux bienfaits sur la santé du ventre :\n- Meilleure digestion\n- Boost du système immunitaire\n- Réduction de la fatigue\n\nDécouvrez-en plus concernant notre abonnemen",
+        "text_lines": [
+          "Consommer des probiotiques a de nombreux bienfaits sur la santé du ventre :",
+          "- Meilleure digestion",
+          "- Boost du système immunitaire",
+          "- Réduction de la fatigue",
+          "Découvrez-en plus concernant notre abonnement sur notre best seller l'indispensable probiotiques",
+          "Jusqu'à -15% sur l'indispensable probiotiques ⭐️",
+          "DIJO",
+          "Shop Now",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1162212119342475\n6 oct 2025 - 26 nov 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nConsommer des probiotiques a de nombreux bienfaits sur la santé du ventre :\n- Meilleure digestion\n- Boost du système immunitaire\n- Réduction de la fatigue\n\nDécouvrez-en plus concernant notre abonnement sur notre best seller l'indispensable probiotiques\nJusqu'à -15% sur l'indispensable probiotiques ⭐️\nDIJO\nShop Now\n​\n"
+      },
+      "-10%": {
+        "id": "1251030056454209",
+        "date_start": "9 mai 2025",
+        "date_end": "12 mai 2025",
+        "platforms": [],
+        "text_preview": "Retrouver un ventre au meilleur de sa forme 💪\nC’est la promesse du Pack Ventre au Top de DIJO. Avec nos 3 cures best-sellers : Détox foie, Indispensable Probiotiques et Glutamine.\n\nDe quoi rétablir l’",
+        "text_lines": [
+          "Retrouver un ventre au meilleur de sa forme 💪",
+          "C’est la promesse du Pack Ventre au Top de DIJO. Avec nos 3 cures best-sellers : Détox foie, Indispensable Probiotiques et Glutamine.",
+          "De quoi rétablir l’équilibre du microbiote intestinal, aider votre corps à éliminer ses déchets et favoriser le bon fonctionnement de votre organisme.",
+          "Profitez de 10% de réduction sur le Pack ventre au top !",
+          "-10% de réduction sur le pack 30-Day Restart",
+          "DIJO",
+          "Shop Now",
+          "Voir plus",
+          "État du système",
+          "API Ad LibraryÀ propos"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1251030056454209\n9 mai 2025 - 12 mai 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nRetrouver un ventre au meilleur de sa forme 💪\nC’est la promesse du Pack Ventre au Top de DIJO. Avec nos 3 cures best-sellers : Détox foie, Indispensable Probiotiques et Glutamine.\n\nDe quoi rétablir l’équilibre du microbiote intestinal, aider votre corps à éliminer ses déchets et favoriser le bon fonctionnement de votre organisme.\n\nProfitez de 10% de réduction sur le Pack ventre au top !\n-10% de réduction sur le pack 30-Day Restart\nDIJO\nShop Now\nVoir plus \nÉtat du système\nAPI Ad LibraryÀ propos des publicités et de l’utilisation des donnéesConfidentialitéConditionsCookies\nMeta © 2026 | Français (France)"
+      },
+      "-20%": {
+        "id": "1738878519999058",
+        "date_start": "14 avr 2025",
+        "date_end": "26 avr 2025",
+        "platforms": [],
+        "text_preview": "Profitez de -20% de réduction en vous inscrivant à notre Newsletter. L'occasion de tester une cure de probiotiques DIJO pour la santé de votre ventre !\n\nLes probiotiques et prébiotiques permettent de ",
+        "text_lines": [
+          "Profitez de -20% de réduction en vous inscrivant à notre Newsletter. L'occasion de tester une cure de probiotiques DIJO pour la santé de votre ventre !",
+          "Les probiotiques et prébiotiques permettent de réduire les ballonnements et rééquilibrer le microbiote.",
+          "Découvrez-en plus sur notre dijo.fr",
+          "-20% en vous inscrivant à notre Newsletter",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1738878519999058\n14 avr 2025 - 26 avr 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\n2 publicités utilisent ce contenu publicitaire et ce texte\nOuvrir la liste déroulante\n​\nVoir les détails du récapitulatif\nDIJO\nSponsorisé\nProfitez de -20% de réduction en vous inscrivant à notre Newsletter. L'occasion de tester une cure de probiotiques DIJO pour la santé de votre ventre !\n\nLes probiotiques et prébiotiques permettent de réduire les ballonnements et rééquilibrer le microbiote.\nDécouvrez-en plus sur notre dijo.fr\n-20% en vous inscrivant à notre Newsletter\nLearn More\n​\n"
+      }
+    }
   },
   "product_angles": {
-    "DIJO RESET": 10,
-    "Focus Probiotiques": 141,
-    "Focus Glutamine": 13,
-    "Pack/Bundle": 106
+    "counts": {
+      "DIJO RESET": 10,
+      "Focus Probiotiques": 95,
+      "Focus Glutamine": 13,
+      "Pack/Bundle": 36
+    },
+    "examples": {
+      "DIJO RESET": {
+        "id": "2056193811880131",
+        "date_start": "22 déc 2025",
+        "date_end": "22 déc 2025",
+        "platforms": [],
+        "text_preview": "DIJO se réinvente \n\nJusqu'à -50% sur une sélection de best-sellers\nDIJO.FR\nDIJO RESET\nPrenez soin de votre ventre\nLearn More\n​\nActif\nID dans la bibliothèque : 1389520159195387\nDébut de diffusion le 22",
+        "text_lines": [
+          "DIJO se réinvente",
+          "Jusqu'à -50% sur une sélection de best-sellers",
+          "DIJO.FR",
+          "DIJO RESET",
+          "Prenez soin de votre ventre",
+          "Learn More",
+          "​",
+          "Actif",
+          "ID dans la bibliothèque : 1389520159195387",
+          "Début de diffusion le 22 déc 2025Plateformes"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 2056193811880131\n22 déc 2025 - 22 déc 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nDIJO se réinvente \n\nJusqu'à -50% sur une sélection de best-sellers\nDIJO.FR\nDIJO RESET\nPrenez soin de votre ventre\nLearn More\n​\nActif\nID dans la bibliothèque : 1389520159195387\nDébut de diffusion le 22 déc 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\n5 publicités utilisent ce contenu publicitaire et ce texte\nOuvrir la liste déroulante\n​\nVoir les détails du récapitulatif\nDIJO\nSponsorisé\nDIJO se réinvente \n\nJusqu'à -50% sur une sélection de best-sellers\nDIJO.FR\nDIJO RESET\nPrenez soin de votre ventre\nLearn More\n​\nActif\nID dans la bibliothèque : 4401691756734691\nDébut de diffusion le 22 déc 2025Plateformes\n​\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\n5 publicités utilisent ce contenu publicitaire et ce texte\nOuvrir la liste déroulante\n​\n"
+      },
+      "Focus Probiotiques": {
+        "id": "25802008069401296",
+        "date_start": "10 nov 2025",
+        "date_end": "22 nov 2025",
+        "platforms": [],
+        "text_preview": "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les pro",
+        "text_lines": [
+          "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
+          "intestinal et offrir à vos intestins le soin qu’ils méritent.",
+          "Les bienfaits :",
+          "🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.",
+          "💪 La Glutamine, renforce vos intestins et les protège au quotidien",
+          "0:00 / 0:23",
+          "Découvrez les Probiotiques DIJO",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 25802008069401296\n10 nov 2025 - 22 nov 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nAssociez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.\n💪 La Glutamine, renforce vos intestins et les protège au quotidien\n0:00 / 0:23\nDécouvrez les Probiotiques DIJO\nLearn More\n​\n"
+      },
+      "Focus Glutamine": {
+        "id": "25802008069401296",
+        "date_start": "10 nov 2025",
+        "date_end": "22 nov 2025",
+        "platforms": [],
+        "text_preview": "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les pro",
+        "text_lines": [
+          "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
+          "intestinal et offrir à vos intestins le soin qu’ils méritent.",
+          "Les bienfaits :",
+          "🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.",
+          "💪 La Glutamine, renforce vos intestins et les protège au quotidien",
+          "0:00 / 0:23",
+          "Découvrez les Probiotiques DIJO",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 25802008069401296\n10 nov 2025 - 22 nov 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nAssociez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.\n💪 La Glutamine, renforce vos intestins et les protège au quotidien\n0:00 / 0:23\nDécouvrez les Probiotiques DIJO\nLearn More\n​\n"
+      },
+      "Pack/Bundle": {
+        "id": "25802008069401296",
+        "date_start": "10 nov 2025",
+        "date_end": "22 nov 2025",
+        "platforms": [],
+        "text_preview": "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les pro",
+        "text_lines": [
+          "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
+          "intestinal et offrir à vos intestins le soin qu’ils méritent.",
+          "Les bienfaits :",
+          "🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.",
+          "💪 La Glutamine, renforce vos intestins et les protège au quotidien",
+          "0:00 / 0:23",
+          "Découvrez les Probiotiques DIJO",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 25802008069401296\n10 nov 2025 - 22 nov 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nAssociez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.\n💪 La Glutamine, renforce vos intestins et les protège au quotidien\n0:00 / 0:23\nDécouvrez les Probiotiques DIJO\nLearn More\n​\n"
+      }
+    }
   },
   "benefit_angles": {
-    "Santé du ventre": 106,
-    "Équilibre microbiote": 92,
-    "Flore intestinale": 5,
-    "Protection intestins": 70,
-    "Digestion": 32
+    "counts": {
+      "Équilibre microbiote": 92,
+      "Flore intestinale": 5,
+      "Perte de poids / Métabolisme": 18,
+      "Anti-ballonnements": 58,
+      "Anti-stress": 4
+    },
+    "examples": {
+      "Équilibre microbiote": {
+        "id": "25802008069401296",
+        "date_start": "10 nov 2025",
+        "date_end": "22 nov 2025",
+        "platforms": [],
+        "text_preview": "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les pro",
+        "text_lines": [
+          "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
+          "intestinal et offrir à vos intestins le soin qu’ils méritent.",
+          "Les bienfaits :",
+          "🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.",
+          "💪 La Glutamine, renforce vos intestins et les protège au quotidien",
+          "0:00 / 0:23",
+          "Découvrez les Probiotiques DIJO",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 25802008069401296\n10 nov 2025 - 22 nov 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nAssociez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.\n💪 La Glutamine, renforce vos intestins et les protège au quotidien\n0:00 / 0:23\nDécouvrez les Probiotiques DIJO\nLearn More\n​\n"
+      },
+      "Flore intestinale": {
+        "id": "25802008069401296",
+        "date_start": "10 nov 2025",
+        "date_end": "22 nov 2025",
+        "platforms": [],
+        "text_preview": "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les pro",
+        "text_lines": [
+          "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
+          "intestinal et offrir à vos intestins le soin qu’ils méritent.",
+          "Les bienfaits :",
+          "🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.",
+          "💪 La Glutamine, renforce vos intestins et les protège au quotidien",
+          "0:00 / 0:23",
+          "Découvrez les Probiotiques DIJO",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 25802008069401296\n10 nov 2025 - 22 nov 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nAssociez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote \nintestinal et offrir à vos intestins le soin qu’ils méritent.\n\nLes bienfaits :\n🌱 Les probiotiques favorisent l’équilibre de la flore intestinale, pour un ventre en pleine forme.\n💪 La Glutamine, renforce vos intestins et les protège au quotidien\n0:00 / 0:23\nDécouvrez les Probiotiques DIJO\nLearn More\n​\n"
+      },
+      "Perte de poids / Métabolisme": {
+        "id": "1318717766440267",
+        "date_start": "29 juil 2025",
+        "date_end": "21 sep 2025",
+        "platforms": [],
+        "text_preview": "DIJO.FR\nPack régulation du poids - 2 essentiels pour une gestion saine et durable du poids - 1 mois de cure - poids - Dijo\nChouchoutez votre ventre en commandant vos Probiotiques Naturels sur DIJO.fr.",
+        "text_lines": [
+          "DIJO.FR",
+          "Pack régulation du poids - 2 essentiels pour une gestion saine et durable du poids - 1 mois de cure - poids - Dijo",
+          "Chouchoutez votre ventre en commandant vos Probiotiques Naturels sur DIJO.fr. Fabriqué en France - Haute Qualité !",
+          "Shop Now",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1318717766440267\n29 juil 2025 - 21 sep 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nDIJO\nSponsorisé\nDIJO.FR\nPack régulation du poids - 2 essentiels pour une gestion saine et durable du poids - 1 mois de cure - poids - Dijo\nChouchoutez votre ventre en commandant vos Probiotiques Naturels sur DIJO.fr. Fabriqué en France - Haute Qualité !\nShop Now\n​\n"
+      },
+      "Anti-ballonnements": {
+        "id": "1099641458751793",
+        "date_start": "18 juil 2025",
+        "date_end": "31 juil 2025",
+        "platforms": [],
+        "text_preview": "Consommer des probiotiques a de nombreux bienfaits sur la santé du ventre :\n- Réduction des ballonnements\n- Amélioration du système immunitaire\n- Meilleure digestion\n\nDécouvrez-en plus sur notre dijo.",
+        "text_lines": [
+          "Consommer des probiotiques a de nombreux bienfaits sur la santé du ventre :",
+          "- Réduction des ballonnements",
+          "- Amélioration du système immunitaire",
+          "- Meilleure digestion",
+          "Découvrez-en plus sur notre dijo.fr 🌱",
+          "Découvrir tous nos produits sur dijo.fr",
+          "0:00 / 0:33",
+          "WWW.DIJO.FR",
+          "Découvrez les Probiotiques DIJO",
+          "Livraison offerte dès 80€ d'achat"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1099641458751793\n18 juil 2025 - 31 juil 2025Plateformes\n​\n​\n​\n​\n​\nTransparence UE\n​\nOuvrir la liste déroulante\n​\nVoir les détails de la publicité\nlisa_souloy avec DIJO\nSponsorisé\nConsommer des probiotiques a de nombreux bienfaits sur la santé du ventre :\n- Réduction des ballonnements\n- Amélioration du système immunitaire\n- Meilleure digestion\n\nDécouvrez-en plus sur notre dijo.fr 🌱\nDécouvrir tous nos produits sur dijo.fr\n0:00 / 0:33\nWWW.DIJO.FR\nDécouvrez les Probiotiques DIJO\nLivraison offerte dès 80€ d'achat\nEn savoir plus\n​\n"
+      },
+      "Anti-stress": {
+        "id": "1401920837659675",
+        "date_start": "13 mai 2025",
+        "date_end": "15 mai 2025",
+        "platforms": [],
+        "text_preview": "Découvrez notre Pack Anti-Stress !\nRetrouvez sérénité et bien-être grâce à notre combinaison parfaite des Probiotiques Indispensables et Zéro Stress.\n\n🌱 Rééquilibrez votre microbiote\n🧘‍♀️ Gérez votre ",
+        "text_lines": [
+          "Découvrez notre Pack Anti-Stress !",
+          "Retrouvez sérénité et bien-être grâce à notre combinaison parfaite des Probiotiques Indispensables et Zéro Stress.",
+          "🌱 Rééquilibrez votre microbiote",
+          "🧘‍♀️ Gérez votre stress et vos tensions",
+          "🌸 Retrouvez une détente mentale et physique",
+          "Avec DIJO, prenez soin de votre ventre et de votre esprit.",
+          "Pack Anti-stress 🌱",
+          "Dijo",
+          "Learn More",
+          "​"
+        ],
+        "full_section": "Inactive\nID dans la bibliothèque : 1401920837659675\n13 mai 2025 - 15 mai 2025Plateformes\n​\n​\n​\n​\nCette publicité a plusieurs versions\n​\n5 publicités utilisent ce contenu publicitaire et ce texte\nOuvrir la liste déroulante\n​\nVoir les détails du récapitulatif\nDIJO\nSponsorisé\nDécouvrez notre Pack Anti-Stress !\nRetrouvez sérénité et bien-être grâce à notre combinaison parfaite des Probiotiques Indispensables et Zéro Stress.\n\n🌱 Rééquilibrez votre microbiote\n🧘‍♀️ Gérez votre stress et vos tensions\n🌸 Retrouvez une détente mentale et physique\n\nAvec DIJO, prenez soin de votre ventre et de votre esprit.\nPack Anti-stress 🌱\nDijo\nLearn More\n​\n"
+      }
+    }
   },
   "monthly_distribution": {
     "déc": 5,
@@ -46,43 +309,43 @@
     "jan": 13
   },
   "unique_headlines": [
-    "Être en harmonie avec son corps et son ventre, c’est possible !",
-    "Profitez de -20% sur tout le site DIJO pendant 48H avec le code DIJO2025 !",
-    "Il est peut-être temps de tester une cure de probiotiques DIJO pour la santé de votre ventre !",
-    "Découvrez notre pack Anti-constipation.",
-    "Dites adieu au ventre gonflé et au poids qui fait des yoyos !",
+    "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
     "Faites le bilan gratuit et personnalisé de votre ventre et profitez de 20 % de réduction sur vos produits !",
     "DIJO se réinvente",
-    "Découvrez notre Pack Anti-Stress !",
-    "0:00 / 1:00",
-    "Associez la cure Indispensable Probiotiques et Glutamine pour rétablir l’équilibre au sein de votre microbiote",
-    "Inscris-toi et accède en avant-première à nos Ventes Privées :",
-    "Retrouver un ventre au meilleur de sa forme 💪",
-    "La promo de l'année est lancée sur DIJO. Profitez jusqu'à -30% sur tout le site !",
+    "Il est peut-être temps de tester une cure de probiotiques DIJO pour la santé de votre ventre !",
     "Il est temps d'améliorer vos performances sportives en prenant soin de votre ventre.",
+    "Découvrez notre Pack Anti-Stress !",
+    "Inscris-toi et accède en avant-première à nos Ventes Privées :",
+    "Profitez de -20% sur tout le site DIJO pendant 48H avec le code DIJO2025 !",
+    "Faites le plein de bonnes bactéries avec \"L'indispensable Probiotiques\".",
+    "Découvrez notre pack ventre de rêve 💪",
+    "Découvrez notre nouvelle gamme Régulation du Poids ✨",
+    "Être en harmonie avec son corps et son ventre, c’est possible !",
+    "Découvrez notre pack Anti-constipation.",
+    "La promo de l'année est lancée sur DIJO. Profitez jusqu'à -30% sur tout le site !",
+    "Consommer des probiotiques a de nombreux bienfaits sur la santé du ventre :",
     "Faites le plein de bonnes bactéries avec \"\"L'indispensable Probiotiques\"\".",
     "Voici les 3 étapes pour un ventre au top :",
-    "Découvrez notre pack ventre de rêve 💪",
+    "0:00 / 1:00",
     "𝗧𝗨 𝗟𝗨𝗧𝗧𝗘𝗦 𝗖𝗢𝗡𝗧𝗥𝗘 𝗟’𝗨𝗡 𝗗𝗘 𝗖𝗘𝗦 𝗦𝗜𝗚𝗡𝗘𝗦 ?",
-    "Faites le plein de bonnes bactéries avec \"L'indispensable Probiotiques\".",
     "Découvrez notre Pack Focus Métabolisme !",
-    "Consommer des probiotiques a de nombreux bienfaits sur la santé du ventre :",
-    "Découvrez notre nouvelle gamme Régulation du Poids ✨"
+    "Dites adieu au ventre gonflé et au poids qui fait des yoyos !",
+    "Retrouver un ventre au meilleur de sa forme 💪"
   ],
   "unique_ctas": [
-    "Découvrez notre pack Anti-constipation.",
-    "Avec DIJO, prenez soin de votre ventre et de votre esprit.",
-    "Découvrez notre Pack Anti-Stress !",
-    "Découvrez-en plus sur notre dijo.fr 🌱",
     "Découvrez notre pack ventre de rêve 💪",
-    "Profitez de 10% de réduction sur le Pack ventre au top !",
-    "Découvrez-en plus sur notre dijo.fr",
-    "Découvrez-en plus sur nuestro site : dijo.fr",
-    "Avec DIJO, prenez soin de la santé de votre ventre.",
     "Découvrez les Probiotiques DIJO",
-    "Découvrez notre Pack Focus Métabolisme !",
-    "Prenez soin de votre ventre",
+    "Découvrez-en plus sur nuestro site : dijo.fr",
     "Learn More",
-    "Découvrez notre nouvelle gamme Régulation du Poids ✨"
+    "Avec DIJO, prenez soin de votre ventre et de votre esprit.",
+    "Profitez de 10% de réduction sur le Pack ventre au top !",
+    "Découvrez-en plus sur notre dijo.fr 🌱",
+    "Avec DIJO, prenez soin de la santé de votre ventre.",
+    "Prenez soin de votre ventre",
+    "Découvrez-en plus sur notre dijo.fr",
+    "Découvrez notre nouvelle gamme Régulation du Poids ✨",
+    "Découvrez notre Pack Focus Métabolisme !",
+    "Découvrez notre pack Anti-constipation.",
+    "Découvrez notre Pack Anti-Stress !"
   ]
 }
